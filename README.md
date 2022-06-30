@@ -8,4 +8,4 @@ Welcome to the client site source code! This is a React app, which you can learn
 
 ## Backend Services
 
-This website is connected to [Firebase](https://firebase.google.com) for running backend processes, and [Stripe])(https://stripe.com) for payment processing. 
+This website is connected to [Firebase](https://firebase.google.com) for running backend processes, and [Stripe](https://stripe.com) for payment processing. 
