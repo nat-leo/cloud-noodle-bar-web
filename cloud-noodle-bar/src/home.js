@@ -13,6 +13,7 @@ import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import Products from './products.js';
 import { CartContext } from './App.js';
 import ProductDetails from './product_details.js';
+import Checkout from './checkout.js';
 
 const drawerWidth = "25%";
 const theme = createTheme({
@@ -72,6 +73,9 @@ export default function Home() {
           backgroundColor: 'primary.dark',
         }}>
          <ProductDetails />
+        </Box>
+        <Box>
+          <Checkout/>
         </Box>
       </Stack>
     </Box>
